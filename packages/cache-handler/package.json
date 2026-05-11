@@ -92,7 +92,7 @@
         "typescript": "5.6.3"
     },
     "peerDependencies": {
-        "next": ">= 13.5.1",
+        "next": "15.5.18",
         "redis": ">= 4.6"
     },
     "distTags": [
