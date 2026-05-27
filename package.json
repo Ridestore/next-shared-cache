@@ -33,7 +33,7 @@
         "test": "turbo run test"
     },
     "dependencies": {
-        "@changesets/cli": "2.27.9"
+        "@changesets/cli": "2.31.0"
     },
     "devDependencies": {
         "@actions/core": "1.11.1",
